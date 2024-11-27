@@ -28,11 +28,11 @@ writeVector(aa09, "CAPopulationAtRisk/ShapefileForPopAtRisk_Sep")
 ```
 
 In qGIS:
-8. Import shapefile from step 7 above
-9. Import CAPOP_2020_100m_TOTAL.tif layer
-10. Use Zonal Statistics to calculate the **sum** of CA POP Within the buffers
-11. Open attribute table to see value
-12. To obtain CA population as a whole, use 'Raster Layer Statistics', which creates a temporarly layer showing the sum of all CA POP pixels (e.g. total population size)
+1. Import shapefile from step 7 above
+2. Import CAPOP_2020_100m_TOTAL.tif layer
+3. Use Zonal Statistics to calculate the **sum** of CA POP Within the buffers
+4. Open attribute table to see value
+5. To obtain CA population as a whole, use 'Raster Layer Statistics', which creates a temporarly layer showing the sum of all CA POP pixels (e.g. total population size)
 
 <img width="499" alt="image" src="https://github.com/user-attachments/assets/22c7222d-2b2f-47e1-8700-a193bb7ed7f2">
 
