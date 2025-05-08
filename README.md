@@ -1,16 +1,5 @@
-# CA Dengue
-Project estimating dengue transmission suitability in California
+# California Dengue 
 
-## Data sources:
-
-**Climate data**
-- California Basin Characterization Model (Flint et al. 2013)
-- available at 270 m spatial resolution
-- used average of max and min monthly temperature projections from MIROC
+This repo contains scripts and analytical details accompanying the manuscript "Climate warming and international travel may expand dengue transmission risk in California" by Lisa Couper, TJ Sipin, Sam Sambado, Zoe Rennie, Kyle Shanebeck, Kelsey Lyberger, Justin Remais, and Andy MacDonald. The manuscript describes investigation of current and future dengue transmission risk in California and is available as a pre-print here [link coming soon]. 
 
 
-**Vector data**
-- trap surveillacne data from CalSurv
-- focusing on Aedes aegypti
-- detections 2013 - 2023
-- 
