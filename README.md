@@ -6,9 +6,10 @@ The manuscript describes investigation of current and future dengue transmission
 
 <p align="center">
   <img width="800"
-    src="https://github.com/user-attachments/assets/0dd7a8d8-9cc4-4465-bb73-1cbca122cc32">
+    src="https://github.com/user-attachments/assets/224b2a78-5071-47aa-a101-f950e3f3ff0d">
   </p>    
 <p align="center"> 
 
 
 
+https://github.com/user-attachments/assets/224b2a78-5071-47aa-a101-f950e3f3ff0d
