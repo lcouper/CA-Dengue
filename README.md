@@ -4,5 +4,11 @@ This repo contains scripts and analytical details accompanying the manuscript _"
 
 The manuscript describes investigation of current and future dengue transmission risk in California and is available as a pre-print here [link coming soon]. 
 
-![image](https://github.com/user-attachments/assets/0dd7a8d8-9cc4-4465-bb73-1cbca122cc32)
+<p align="center">
+  <img width="800"
+    src="https://github.com/user-attachments/assets/0dd7a8d8-9cc4-4465-bb73-1cbca122cc32">
+  </p>    
+<p align="center"> 
+
+
 
