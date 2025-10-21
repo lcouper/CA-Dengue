@@ -1,4 +1,4 @@
-# Boostrap approach for calibrating risk values
+# Set up of boostrap approach for calibrating risk values
 
 We used a bootstrap approach to draw samples from tract-months in which local transmission was observed. We drew 1,000 samples from each tract-month, with probabilities weighted by population density within that tract based on CA POP estimates (100m resolution).   
 
