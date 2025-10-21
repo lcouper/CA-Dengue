@@ -5,5 +5,5 @@ This repository contains the scripts and datasets (mock versions for restricted 
 The manuscript describes investigation of current and future dengue transmission risk in California and is available as a pre-print here [link coming soon]. 
 
 
-<img width="776" height="392" alt="image" src="https://github.com/user-attachments/assets/f4f593d5-91b0-42bf-a0e8-f26622d9d5b9" />
+<img width="1252" height="614" alt="image" src="https://github.com/user-attachments/assets/30073dbc-6105-4d99-a70e-e15f6b07147d" />
 
